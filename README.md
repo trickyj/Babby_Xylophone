@@ -10,6 +10,8 @@
 
 <a href="/App_Screenshot/IMG_0395.PNG"><img src="/App_Screenshot/IMG_0395.PNG" height="600" width="450"></a>
 
+![Alt Text](/App_Screenshot/Final_Scene.gif)
+
 ## Our Goal
 
 The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat Mood check, or dice app.
@@ -38,5 +40,3 @@ You will be making your first musical instrument! Music apps are so popular on t
 Blog ScrollUnlock :point_right: https://scrollunlock.wordpress.com
 
 by Ampli5 :point_right: http://ampli5.me
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
