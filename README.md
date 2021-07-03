@@ -1,4 +1,4 @@
-# <h1><a href="https://scrollunlock.wordpress.com/"><img src="https://github.com/trickyj/Blog_app_in_Django/blob/master/src/assets/logo.png"></a></h1>
+<a href="www.ampli5.me"><img src="./App_Screenshot/github_banner.png" height="300" width="850"></a>
 
 # Babby Xylophone IOS App
 
@@ -42,3 +42,5 @@ You will be making your first musical instrument! Music apps are so popular on t
 Blog ScrollUnlock :point_right: https://scrollunlock.wordpress.com
 
 by Ampli5 :point_right: http://ampli5.me
+
+![End Banner](App_Screenshot/logo.png)
